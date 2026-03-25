@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\laich\\Desktop\\asp.netVB_MVC\\ELeaveAPI\\ELeaveAPI\\ELeaveAPI.csproj": {}
+    "C:\\Users\\laich\\Desktop\\ELeave\\ELeaveAPI\\ELeaveAPI\\ELeaveAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\laich\\Desktop\\asp.netVB_MVC\\ELeaveAPI\\ELeaveAPI\\ELeaveAPI.csproj": {
+    "C:\\Users\\laich\\Desktop\\ELeave\\ELeaveAPI\\ELeaveAPI\\ELeaveAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\laich\\Desktop\\asp.netVB_MVC\\ELeaveAPI\\ELeaveAPI\\ELeaveAPI.csproj",
+        "projectUniqueName": "C:\\Users\\laich\\Desktop\\ELeave\\ELeaveAPI\\ELeaveAPI\\ELeaveAPI.csproj",
         "projectName": "ELeaveAPI",
-        "projectPath": "C:\\Users\\laich\\Desktop\\asp.netVB_MVC\\ELeaveAPI\\ELeaveAPI\\ELeaveAPI.csproj",
+        "projectPath": "C:\\Users\\laich\\Desktop\\ELeave\\ELeaveAPI\\ELeaveAPI\\ELeaveAPI.csproj",
         "packagesPath": "C:\\Users\\laich\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\laich\\Desktop\\asp.netVB_MVC\\ELeaveAPI\\ELeaveAPI\\obj\\",
+        "outputPath": "C:\\Users\\laich\\Desktop\\ELeave\\ELeaveAPI\\ELeaveAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 24.2\\Components\\Offline Packages",

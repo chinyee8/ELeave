@@ -62,11 +62,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\laich\\Desktop\\asp.netVB_MVC\\ELeaveAPI\\ELeaveMVC\\ELeaveMVC.csproj",
+      "projectUniqueName": "C:\\Users\\laich\\Desktop\\ELeave\\ELeaveAPI\\ELeaveMVC\\ELeaveMVC.csproj",
       "projectName": "ELeaveMVC",
-      "projectPath": "C:\\Users\\laich\\Desktop\\asp.netVB_MVC\\ELeaveAPI\\ELeaveMVC\\ELeaveMVC.csproj",
+      "projectPath": "C:\\Users\\laich\\Desktop\\ELeave\\ELeaveAPI\\ELeaveMVC\\ELeaveMVC.csproj",
       "packagesPath": "C:\\Users\\laich\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\laich\\Desktop\\asp.netVB_MVC\\ELeaveAPI\\ELeaveMVC\\obj\\",
+      "outputPath": "C:\\Users\\laich\\Desktop\\ELeave\\ELeaveAPI\\ELeaveMVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 24.2\\Components\\Offline Packages",
