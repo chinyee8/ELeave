@@ -1,0 +1,63 @@
+﻿@model List<ELeaveMVC.Models.LeaveRequest>
+@{
+    ViewData["Title"] = "Dashboard";
+}
+<div class="container mt-4">
+    <div class="d-flex justify-content-between align-items-center mb-3">
+        <h5 class="mb-0">Welcome, <strong>@ViewBag.FullName</strong></h5>
+        <div>
+            <a href="/Leave/Submit" class="btn btn-success btn-sm me-2">+ New Request</a>
+            <a href="/Account/Logout" class="btn btn-outline-secondary btn-sm">Logout</a>
+        </div>
+    </div>
+    @if (TempData["Message"] != null)
+    {
+        var isErr = TempData["IsError"]?.ToString() == "True";
+        <div class="alert alert-@(isErr ? "danger" : "success") alert-dismissible">
+            @TempData["Message"]
+            <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+        </div>
+    }
+    <div class="table-responsive">
+        <table class="table table-hover align-middle">
+            <thead class="table-dark">
+                <tr>
+                    <th>Type</th>
+                    <th>Start</th>
+                    <th>End</th>
+                    <th>Days</th>
+                    <th>Status</th>
+                    <th>Submitted</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var r in Model)
+                {
+                    var badge = r.Status switch
+                    {
+                        "Approved" => "success",
+                        "Rejected" => "danger",
+                        "Cancelled" => "secondary",
+                        _ => "warning"
+                    };
+                    <tr>
+                        <td>@r.LeaveType</td>
+                        <td>@r.StartDate.ToString("dd/MM/yyyy")</td>
+                        <td>@r.EndDate.ToString("dd/MM/yyyy")</td>
+                        <td>@r.TotalDays</td>
+                        <td><span class="badge bg-@badge">@r.Status</span></td>
+                        <td>@r.SubmittedDate.ToString("dd/MM/yyyy HH:mm")</td>
+                    </tr>
+                }
+                @if (!Model.Any())
+                {
+                    <tr>
+                        <td colspan="6" class="text-center text-muted py-4">
+                            No leave requests yet.
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

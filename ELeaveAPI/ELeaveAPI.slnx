@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ELeaveAPI/ELeaveAPI.csproj" />
+  <Project Path="ELeaveMVC/ELeaveMVC.csproj" />
+</Solution>

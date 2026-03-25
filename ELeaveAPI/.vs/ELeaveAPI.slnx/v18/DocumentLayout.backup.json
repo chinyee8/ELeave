@@ -1,0 +1,428 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\laich\\Desktop\\asp.netVB_MVC\\ELeaveAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E9BF763-6E57-4A11-952C-12DAFD1A55E4}|ELeaveAPI\\ELeaveAPI.csproj|c:\\users\\laich\\desktop\\asp.netvb_mvc\\eleaveapi\\eleaveapi\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E9BF763-6E57-4A11-952C-12DAFD1A55E4}|ELeaveAPI\\ELeaveAPI.csproj|solutionrelative:eleaveapi\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E9BF763-6E57-4A11-952C-12DAFD1A55E4}|ELeaveAPI\\ELeaveAPI.csproj|c:\\users\\laich\\desktop\\asp.netvb_mvc\\eleaveapi\\eleaveapi\\dtos\\authdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E9BF763-6E57-4A11-952C-12DAFD1A55E4}|ELeaveAPI\\ELeaveAPI.csproj|solutionrelative:eleaveapi\\dtos\\authdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E9BF763-6E57-4A11-952C-12DAFD1A55E4}|ELeaveAPI\\ELeaveAPI.csproj|c:\\users\\laich\\desktop\\asp.netvb_mvc\\eleaveapi\\eleaveapi\\models\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E9BF763-6E57-4A11-952C-12DAFD1A55E4}|ELeaveAPI\\ELeaveAPI.csproj|solutionrelative:eleaveapi\\models\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E9BF763-6E57-4A11-952C-12DAFD1A55E4}|ELeaveAPI\\ELeaveAPI.csproj|c:\\users\\laich\\desktop\\asp.netvb_mvc\\eleaveapi\\eleaveapi\\models\\leavebalance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E9BF763-6E57-4A11-952C-12DAFD1A55E4}|ELeaveAPI\\ELeaveAPI.csproj|solutionrelative:eleaveapi\\models\\leavebalance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E9BF763-6E57-4A11-952C-12DAFD1A55E4}|ELeaveAPI\\ELeaveAPI.csproj|c:\\users\\laich\\desktop\\asp.netvb_mvc\\eleaveapi\\eleaveapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E9BF763-6E57-4A11-952C-12DAFD1A55E4}|ELeaveAPI\\ELeaveAPI.csproj|solutionrelative:eleaveapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E9BF763-6E57-4A11-952C-12DAFD1A55E4}|ELeaveAPI\\ELeaveAPI.csproj|c:\\users\\laich\\desktop\\asp.netvb_mvc\\eleaveapi\\eleaveapi\\dtos\\signupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E9BF763-6E57-4A11-952C-12DAFD1A55E4}|ELeaveAPI\\ELeaveAPI.csproj|solutionrelative:eleaveapi\\dtos\\signupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E9BF763-6E57-4A11-952C-12DAFD1A55E4}|ELeaveAPI\\ELeaveAPI.csproj|c:\\users\\laich\\desktop\\asp.netvb_mvc\\eleaveapi\\eleaveapi\\dtos\\leavedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E9BF763-6E57-4A11-952C-12DAFD1A55E4}|ELeaveAPI\\ELeaveAPI.csproj|solutionrelative:eleaveapi\\dtos\\leavedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E9BF763-6E57-4A11-952C-12DAFD1A55E4}|ELeaveAPI\\ELeaveAPI.csproj|c:\\users\\laich\\desktop\\asp.netvb_mvc\\eleaveapi\\eleaveapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E9BF763-6E57-4A11-952C-12DAFD1A55E4}|ELeaveAPI\\ELeaveAPI.csproj|solutionrelative:eleaveapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E9BF763-6E57-4A11-952C-12DAFD1A55E4}|ELeaveAPI\\ELeaveAPI.csproj|c:\\users\\laich\\desktop\\asp.netvb_mvc\\eleaveapi\\eleaveapi\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E9BF763-6E57-4A11-952C-12DAFD1A55E4}|ELeaveAPI\\ELeaveAPI.csproj|solutionrelative:eleaveapi\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C1CFD0-374B-455D-BE4F-6A0101953892}|ELeaveMVC\\ELeaveMVC.csproj|c:\\users\\laich\\desktop\\asp.netvb_mvc\\eleaveapi\\eleavemvc\\helpers\\apihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C1CFD0-374B-455D-BE4F-6A0101953892}|ELeaveMVC\\ELeaveMVC.csproj|solutionrelative:eleavemvc\\helpers\\apihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C1CFD0-374B-455D-BE4F-6A0101953892}|ELeaveMVC\\ELeaveMVC.csproj|c:\\users\\laich\\desktop\\asp.netvb_mvc\\eleaveapi\\eleavemvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C1CFD0-374B-455D-BE4F-6A0101953892}|ELeaveMVC\\ELeaveMVC.csproj|solutionrelative:eleavemvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E9BF763-6E57-4A11-952C-12DAFD1A55E4}|ELeaveAPI\\ELeaveAPI.csproj|c:\\users\\laich\\desktop\\asp.netvb_mvc\\eleaveapi\\eleaveapi\\controllers\\leavecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E9BF763-6E57-4A11-952C-12DAFD1A55E4}|ELeaveAPI\\ELeaveAPI.csproj|solutionrelative:eleaveapi\\controllers\\leavecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E9BF763-6E57-4A11-952C-12DAFD1A55E4}|ELeaveAPI\\ELeaveAPI.csproj|c:\\users\\laich\\desktop\\asp.netvb_mvc\\eleaveapi\\eleaveapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E9BF763-6E57-4A11-952C-12DAFD1A55E4}|ELeaveAPI\\ELeaveAPI.csproj|solutionrelative:eleaveapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C1CFD0-374B-455D-BE4F-6A0101953892}|ELeaveMVC\\ELeaveMVC.csproj|c:\\users\\laich\\desktop\\asp.netvb_mvc\\eleaveapi\\eleavemvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C1CFD0-374B-455D-BE4F-6A0101953892}|ELeaveMVC\\ELeaveMVC.csproj|solutionrelative:eleavemvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C1CFD0-374B-455D-BE4F-6A0101953892}|ELeaveMVC\\ELeaveMVC.csproj|c:\\users\\laich\\desktop\\asp.netvb_mvc\\eleaveapi\\eleavemvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{67C1CFD0-374B-455D-BE4F-6A0101953892}|ELeaveMVC\\ELeaveMVC.csproj|solutionrelative:eleavemvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C1CFD0-374B-455D-BE4F-6A0101953892}|ELeaveMVC\\ELeaveMVC.csproj|c:\\users\\laich\\desktop\\asp.netvb_mvc\\eleaveapi\\eleavemvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C1CFD0-374B-455D-BE4F-6A0101953892}|ELeaveMVC\\ELeaveMVC.csproj|solutionrelative:eleavemvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C1CFD0-374B-455D-BE4F-6A0101953892}|ELeaveMVC\\ELeaveMVC.csproj|c:\\users\\laich\\desktop\\asp.netvb_mvc\\eleaveapi\\eleavemvc\\views\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67C1CFD0-374B-455D-BE4F-6A0101953892}|ELeaveMVC\\ELeaveMVC.csproj|solutionrelative:eleavemvc\\views\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C1CFD0-374B-455D-BE4F-6A0101953892}|ELeaveMVC\\ELeaveMVC.csproj|c:\\users\\laich\\desktop\\asp.netvb_mvc\\eleaveapi\\eleavemvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67C1CFD0-374B-455D-BE4F-6A0101953892}|ELeaveMVC\\ELeaveMVC.csproj|solutionrelative:eleavemvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C1CFD0-374B-455D-BE4F-6A0101953892}|ELeaveMVC\\ELeaveMVC.csproj|c:\\users\\laich\\desktop\\asp.netvb_mvc\\eleaveapi\\eleavemvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C1CFD0-374B-455D-BE4F-6A0101953892}|ELeaveMVC\\ELeaveMVC.csproj|solutionrelative:eleavemvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C1CFD0-374B-455D-BE4F-6A0101953892}|ELeaveMVC\\ELeaveMVC.csproj|c:\\users\\laich\\desktop\\asp.netvb_mvc\\eleaveapi\\eleavemvc\\models\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C1CFD0-374B-455D-BE4F-6A0101953892}|ELeaveMVC\\ELeaveMVC.csproj|solutionrelative:eleavemvc\\models\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C1CFD0-374B-455D-BE4F-6A0101953892}|ELeaveMVC\\ELeaveMVC.csproj|c:\\users\\laich\\desktop\\asp.netvb_mvc\\eleaveapi\\eleavemvc\\controllers\\leavecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C1CFD0-374B-455D-BE4F-6A0101953892}|ELeaveMVC\\ELeaveMVC.csproj|solutionrelative:eleavemvc\\controllers\\leavecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C1CFD0-374B-455D-BE4F-6A0101953892}|ELeaveMVC\\ELeaveMVC.csproj|c:\\users\\laich\\desktop\\asp.netvb_mvc\\eleaveapi\\eleavemvc\\views\\leave\\submit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67C1CFD0-374B-455D-BE4F-6A0101953892}|ELeaveMVC\\ELeaveMVC.csproj|solutionrelative:eleavemvc\\views\\leave\\submit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C1CFD0-374B-455D-BE4F-6A0101953892}|ELeaveMVC\\ELeaveMVC.csproj|c:\\users\\laich\\desktop\\asp.netvb_mvc\\eleaveapi\\eleavemvc\\views\\leave\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67C1CFD0-374B-455D-BE4F-6A0101953892}|ELeaveMVC\\ELeaveMVC.csproj|solutionrelative:eleavemvc\\views\\leave\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E9BF763-6E57-4A11-952C-12DAFD1A55E4}|ELeaveAPI\\ELeaveAPI.csproj|c:\\users\\laich\\desktop\\asp.netvb_mvc\\eleaveapi\\eleaveapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9E9BF763-6E57-4A11-952C-12DAFD1A55E4}|ELeaveAPI\\ELeaveAPI.csproj|solutionrelative:eleaveapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SignupDto.cs",
+              "DocumentMoniker": "C:\\Users\\laich\\Desktop\\asp.netVB_MVC\\ELeaveAPI\\ELeaveAPI\\DTOs\\SignupDto.cs",
+              "RelativeDocumentMoniker": "ELeaveAPI\\DTOs\\SignupDto.cs",
+              "ToolTip": "C:\\Users\\laich\\Desktop\\asp.netVB_MVC\\ELeaveAPI\\ELeaveAPI\\DTOs\\SignupDto.cs",
+              "RelativeToolTip": "ELeaveAPI\\DTOs\\SignupDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T23:39:01.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LeaveBalance.cs",
+              "DocumentMoniker": "C:\\Users\\laich\\Desktop\\asp.netVB_MVC\\ELeaveAPI\\ELeaveAPI\\Models\\LeaveBalance.cs",
+              "RelativeDocumentMoniker": "ELeaveAPI\\Models\\LeaveBalance.cs",
+              "ToolTip": "C:\\Users\\laich\\Desktop\\asp.netVB_MVC\\ELeaveAPI\\ELeaveAPI\\Models\\LeaveBalance.cs",
+              "RelativeToolTip": "ELeaveAPI\\Models\\LeaveBalance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T22:47:11.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\laich\\Desktop\\asp.netVB_MVC\\ELeaveAPI\\ELeaveAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ELeaveAPI\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\laich\\Desktop\\asp.netVB_MVC\\ELeaveAPI\\ELeaveAPI\\Models\\User.cs",
+              "RelativeToolTip": "ELeaveAPI\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T22:45:47.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\laich\\Desktop\\asp.netVB_MVC\\ELeaveAPI\\ELeaveAPI\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "ELeaveAPI\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\laich\\Desktop\\asp.netVB_MVC\\ELeaveAPI\\ELeaveAPI\\Services\\TokenService.cs",
+              "RelativeToolTip": "ELeaveAPI\\Services\\TokenService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T22:57:35.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\laich\\Desktop\\asp.netVB_MVC\\ELeaveAPI\\ELeaveMVC\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ELeaveMVC\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\laich\\Desktop\\asp.netVB_MVC\\ELeaveAPI\\ELeaveMVC\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ELeaveMVC\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwDkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T23:17:26.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApiHelper.cs",
+              "DocumentMoniker": "C:\\Users\\laich\\Desktop\\asp.netVB_MVC\\ELeaveAPI\\ELeaveMVC\\Helpers\\ApiHelper.cs",
+              "RelativeDocumentMoniker": "ELeaveMVC\\Helpers\\ApiHelper.cs",
+              "ToolTip": "C:\\Users\\laich\\Desktop\\asp.netVB_MVC\\ELeaveAPI\\ELeaveMVC\\Helpers\\ApiHelper.cs",
+              "RelativeToolTip": "ELeaveMVC\\Helpers\\ApiHelper.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T23:15:35.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LeaveDtos.cs",
+              "DocumentMoniker": "C:\\Users\\laich\\Desktop\\asp.netVB_MVC\\ELeaveAPI\\ELeaveAPI\\DTOs\\LeaveDtos.cs",
+              "RelativeDocumentMoniker": "ELeaveAPI\\DTOs\\LeaveDtos.cs",
+              "ToolTip": "C:\\Users\\laich\\Desktop\\asp.netVB_MVC\\ELeaveAPI\\ELeaveAPI\\DTOs\\LeaveDtos.cs",
+              "RelativeToolTip": "ELeaveAPI\\DTOs\\LeaveDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T22:55:40.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthDtos.cs",
+              "DocumentMoniker": "C:\\Users\\laich\\Desktop\\asp.netVB_MVC\\ELeaveAPI\\ELeaveAPI\\DTOs\\AuthDtos.cs",
+              "RelativeDocumentMoniker": "ELeaveAPI\\DTOs\\AuthDtos.cs",
+              "ToolTip": "C:\\Users\\laich\\Desktop\\asp.netVB_MVC\\ELeaveAPI\\ELeaveAPI\\DTOs\\AuthDtos.cs",
+              "RelativeToolTip": "ELeaveAPI\\DTOs\\AuthDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T22:54:32.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\laich\\Desktop\\asp.netVB_MVC\\ELeaveAPI\\ELeaveAPI\\DbContext\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ELeaveAPI\\DbContext\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\laich\\Desktop\\asp.netVB_MVC\\ELeaveAPI\\ELeaveAPI\\DbContext\\AppDbContext.cs",
+              "RelativeToolTip": "ELeaveAPI\\DbContext\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T22:47:54.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LeaveRequest.cs",
+              "DocumentMoniker": "C:\\Users\\laich\\Desktop\\asp.netVB_MVC\\ELeaveAPI\\ELeaveAPI\\Models\\LeaveRequest.cs",
+              "RelativeDocumentMoniker": "ELeaveAPI\\Models\\LeaveRequest.cs",
+              "ToolTip": "C:\\Users\\laich\\Desktop\\asp.netVB_MVC\\ELeaveAPI\\ELeaveAPI\\Models\\LeaveRequest.cs",
+              "RelativeToolTip": "ELeaveAPI\\Models\\LeaveRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T22:46:21.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\laich\\Desktop\\asp.netVB_MVC\\ELeaveAPI\\ELeaveAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ELeaveAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\laich\\Desktop\\asp.netVB_MVC\\ELeaveAPI\\ELeaveAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ELeaveAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAqwEUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T23:00:25.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LeaveController.cs",
+              "DocumentMoniker": "C:\\Users\\laich\\Desktop\\asp.netVB_MVC\\ELeaveAPI\\ELeaveAPI\\Controllers\\LeaveController.cs",
+              "RelativeDocumentMoniker": "ELeaveAPI\\Controllers\\LeaveController.cs",
+              "ToolTip": "C:\\Users\\laich\\Desktop\\asp.netVB_MVC\\ELeaveAPI\\ELeaveAPI\\Controllers\\LeaveController.cs",
+              "RelativeToolTip": "ELeaveAPI\\Controllers\\LeaveController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAcwDIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T23:00:52.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\laich\\Desktop\\asp.netVB_MVC\\ELeaveAPI\\ELeaveAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ELeaveAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\laich\\Desktop\\asp.netVB_MVC\\ELeaveAPI\\ELeaveAPI\\Program.cs",
+              "RelativeToolTip": "ELeaveAPI\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T23:07:57.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\laich\\Desktop\\asp.netVB_MVC\\ELeaveAPI\\ELeaveMVC\\Program.cs",
+              "RelativeDocumentMoniker": "ELeaveMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\laich\\Desktop\\asp.netVB_MVC\\ELeaveAPI\\ELeaveMVC\\Program.cs",
+              "RelativeToolTip": "ELeaveMVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T23:15:01.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\laich\\Desktop\\asp.netVB_MVC\\ELeaveAPI\\ELeaveMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "ELeaveMVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\laich\\Desktop\\asp.netVB_MVC\\ELeaveAPI\\ELeaveMVC\\appsettings.json",
+              "RelativeToolTip": "ELeaveMVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-24T23:14:32.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\laich\\Desktop\\asp.netVB_MVC\\ELeaveAPI\\ELeaveMVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ELeaveMVC\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\laich\\Desktop\\asp.netVB_MVC\\ELeaveAPI\\ELeaveMVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ELeaveMVC\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T23:40:23.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Signup.cshtml",
+              "DocumentMoniker": "C:\\Users\\laich\\Desktop\\asp.netVB_MVC\\ELeaveAPI\\ELeaveMVC\\Views\\Account\\Signup.cshtml",
+              "RelativeDocumentMoniker": "ELeaveMVC\\Views\\Account\\Signup.cshtml",
+              "ToolTip": "C:\\Users\\laich\\Desktop\\asp.netVB_MVC\\ELeaveAPI\\ELeaveMVC\\Views\\Account\\Signup.cshtml",
+              "RelativeToolTip": "ELeaveMVC\\Views\\Account\\Signup.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACMAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-24T23:43:53.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\laich\\Desktop\\asp.netVB_MVC\\ELeaveAPI\\ELeaveMVC\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "ELeaveMVC\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\laich\\Desktop\\asp.netVB_MVC\\ELeaveAPI\\ELeaveMVC\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "ELeaveMVC\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwCkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-24T23:18:55.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\laich\\Desktop\\asp.netVB_MVC\\ELeaveAPI\\ELeaveMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ELeaveMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\laich\\Desktop\\asp.netVB_MVC\\ELeaveAPI\\ELeaveMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ELeaveMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T23:40:31.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LeaveRequest.cs",
+              "DocumentMoniker": "C:\\Users\\laich\\Desktop\\asp.netVB_MVC\\ELeaveAPI\\ELeaveMVC\\Models\\LeaveRequest.cs",
+              "RelativeDocumentMoniker": "ELeaveMVC\\Models\\LeaveRequest.cs",
+              "ToolTip": "C:\\Users\\laich\\Desktop\\asp.netVB_MVC\\ELeaveAPI\\ELeaveMVC\\Models\\LeaveRequest.cs",
+              "RelativeToolTip": "ELeaveMVC\\Models\\LeaveRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T23:17:01.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LeaveController.cs",
+              "DocumentMoniker": "C:\\Users\\laich\\Desktop\\asp.netVB_MVC\\ELeaveAPI\\ELeaveMVC\\Controllers\\LeaveController.cs",
+              "RelativeDocumentMoniker": "ELeaveMVC\\Controllers\\LeaveController.cs",
+              "ToolTip": "C:\\Users\\laich\\Desktop\\asp.netVB_MVC\\ELeaveAPI\\ELeaveMVC\\Controllers\\LeaveController.cs",
+              "RelativeToolTip": "ELeaveMVC\\Controllers\\LeaveController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAASwBoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T23:18:13.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Submit.cshtml",
+              "DocumentMoniker": "C:\\Users\\laich\\Desktop\\asp.netVB_MVC\\ELeaveAPI\\ELeaveMVC\\Views\\Leave\\Submit.cshtml",
+              "RelativeDocumentMoniker": "ELeaveMVC\\Views\\Leave\\Submit.cshtml",
+              "ToolTip": "C:\\Users\\laich\\Desktop\\asp.netVB_MVC\\ELeaveAPI\\ELeaveMVC\\Views\\Leave\\Submit.cshtml",
+              "RelativeToolTip": "ELeaveMVC\\Views\\Leave\\Submit.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-24T23:19:40.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\laich\\Desktop\\asp.netVB_MVC\\ELeaveAPI\\ELeaveMVC\\Views\\Leave\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "ELeaveMVC\\Views\\Leave\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\laich\\Desktop\\asp.netVB_MVC\\ELeaveAPI\\ELeaveMVC\\Views\\Leave\\Dashboard.cshtml",
+              "RelativeToolTip": "ELeaveMVC\\Views\\Leave\\Dashboard.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-24T23:19:19.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\laich\\Desktop\\asp.netVB_MVC\\ELeaveAPI\\ELeaveAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ELeaveAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\laich\\Desktop\\asp.netVB_MVC\\ELeaveAPI\\ELeaveAPI\\appsettings.json",
+              "RelativeToolTip": "ELeaveAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-24T22:43:38.011Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+@ELeaveAPI_HostAddress = http://localhost:5130
+
+GET {{ELeaveAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
